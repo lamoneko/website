@@ -1,3 +1,3 @@
 # website
-作品やプロジェクトをまとめたwebサイトです．
-latest update 2024 06 15
+プロフィールサイトです．
+latest update 2024 12 14
